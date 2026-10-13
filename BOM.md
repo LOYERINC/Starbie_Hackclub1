@@ -17,7 +17,7 @@
 | [ESP32 c3 Supermini](https://www.aliexpress.com/item/1005005757810089.html?spm=a2g0o.cart.0.0.7d3638dap61Va3&mp=1&pdp_npi=6%40dis%21USD%21USD+3.21%21USD+3.21%21%21USD+3.21%21%21%21%400b1585c117919274610198795e0f1e%2112000038593281278%21ct%21NG%212701523071%21%211%210%21) | To think | 1 | $3.21 | $3.21 | [Win Win](https://www.aliexpress.com/item/1005005757810089.html?spm=a2g0o.cart.0.0.7d3638dap61Va3&mp=1&pdp_npi=6%40dis%21USD%21USD+3.21%21USD+3.21%21%21USD+3.21%21%21%21%400b1585c117919274610198795e0f1e%2112000038593281278%21ct%21NG%212701523071%21%211%210%21) |
 | [MX Switches](https://www.aliexpress.com/item/1005006188367905.html?spm=a2g0o.cart.0.0.7d3638dap61Va3&mp=1&pdp_npi=6%40dis%21USD%21USD%202.45%21USD%202.45%21%21USD%202.45%21%21%21%400b1585c117919274610198795e0f1e%2112000036193640740%21ct%21NG%212701523071%21%211%210%21) | to press | 2 | $2.45 | $4.90 | [Jia-He Store](https://www.aliexpress.com/item/1005006188367905.html?spm=a2g0o.cart.0.0.7d3638dap61Va3&mp=1&pdp_npi=6%40dis%21USD%21USD%202.45%21USD%202.45%21%21USD%202.45%21%21%21%400b1585c117919274610198795e0f1e%2112000036193640740%21ct%21NG%212701523071%21%211%210%21) |
 | **Parts subtotal** | — | — | — | **$13.28** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.28** | — |
+| **Tax & shipping** | — | — | — | **$17.21** | — |
+| **Total** | — | — | — | **$30.49** | — |
 
-$16.72 left of the tier's funding.
+**$0.49 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
